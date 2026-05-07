@@ -17,7 +17,7 @@ This project analyzes HR attrition data using Power BI to uncover workforce tren
 - Employee satisfaction trends
 
 ## 📷 Dashboard Preview
-https://github.com/mukesh-hari/powerbi-hr-attrition-dashboard/blob/main/Dashboard%20png.png?raw=true
+https://github.com/mukesh-hari/powerbi-hr-attrition-dashboard/blob/main/Dashboard%20png.png
 
 ## 🚀 Skills Demonstrated
 - Data Analysis
