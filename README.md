@@ -17,7 +17,7 @@ This Power BI dashboard analyzes employee attrition trends, job satisfaction, sa
 - Employee satisfaction trends
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](Dashboard png.png)
+https://github.com/mukesh-hari/powerbi-hr-attrition-dashboard/blob/main/Dashboard%20png.png
 
 ## 🚀 Skills Demonstrated
 - Data Analysis
